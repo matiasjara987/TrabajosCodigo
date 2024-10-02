@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\bin\Debug\net8.0\introCsharpbackend.exe
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\bin\Debug\net8.0\introCsharpbackend.deps.json
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\bin\Debug\net8.0\introCsharpbackend.runtimeconfig.json
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\bin\Debug\net8.0\introCsharpbackend.dll
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\bin\Debug\net8.0\introCsharpbackend.pdb
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\introCsharpbackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\introCsharpbackend.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\introCsharpbackend.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\introCsharpbackend.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\introCsharpbackend.sourcelink.json
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\introCsharpbackend.dll
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\refint\introCsharpbackend.dll
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\introCsharpbackend.pdb
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\introCsharpbackend.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Documentos\Cursos\Proyectos\introCsharpbackend\introCsharpbackend\obj\Debug\net8.0\ref\introCsharpbackend.dll
